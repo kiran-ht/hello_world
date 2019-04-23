@@ -1,6 +1,8 @@
 This is a sample java code
 
 
+Updating test
+
 Jenkinsfile (Declarative Pipeline)
 pipeline {
     agent { docker { image 'maven:3.3.3' } }
